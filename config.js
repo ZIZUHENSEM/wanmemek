@@ -10,17 +10,17 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285742920585']
+global.owner = ['6282143729818']
 global.pengguna = 'Wanxx'
 global.premium = []
 global.author = 'Wanxx'
-global.pemilik = ['6285742920585'] 
-global.ownernomer = '6285742920585'
+global.pemilik = ['6282143729818'] 
+global.ownernomer = '6282143729818'
 global.ownername = 'Wanxx'
 global.botname = 'ZYENZZ BOTZ'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285742920585'
+global.meki = '6282143729818'
 global.footer = 'ZYENZZ BOTZ'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'Wanxx' //Ubah nama kalian buat nambahin di tqtq bot
@@ -29,7 +29,7 @@ global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/zizuelitewibuhengker'
 global.gc = 'https://chat.whatsapp.com/DUCX4Q6flMr9ufYWL7kHHv' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '081352410020'
+global.dana = 'chat owner aja'
 global.gopay = 'MASUK GRUB BOTNYA/chat via gmail'
 global.wame = 'wa.me/6285742920585'
 global.email = 'zizuukw@gmail.com'
